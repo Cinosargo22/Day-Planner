@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-color: white;
+    background-color: rgb(225, 230, 226);
   }
   
   textarea{
@@ -16,10 +16,10 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: green;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid rgb(107, 107, 107);
+    border-bottom: 10px solid rgb(22, 160, 202);
   }
   
   .description{
@@ -44,7 +44,7 @@ body {
   }
   
   .past {
-    background-color: #a7a5a5;
+    background-color: #2e7979;
     color: white;
   }
   
@@ -62,7 +62,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #37c46b;
+    background-color: #c4aa37;
     color: white;
   }
   
